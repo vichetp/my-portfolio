@@ -22,7 +22,6 @@ I am a clinical research data specialist and public health professional at the C
   *January 2018 - December 2021*  
   - Managed clincal and laboratory data.
   - Conducted data cleansing and preparation for analysis.
-  - 
 
 ## Technical Skills
 - *Programming Languages:* R (Quarto, Rmarkdown, Shiny)
@@ -32,17 +31,11 @@ I am a clinical research data specialist and public health professional at the C
 
 ## Projects
 1. **PICU-II study - Data management and clinical study dashboard development**  
-   *Study data management section, I managed study data across multiple processes to ensure accuracy and integrity. My responsibilities included data management, query  resolution, monitoring, and cleaning. This work supported reliable study outcomes and streamlined data operations.
+*Study data management section, I managed study data across multiple processes to ensure accuracy and integrity. My responsibilities included data management, query  resolution, monitoring, and cleaning.*
 
-   This Power BI dashboard offered useful insight of study progress and provide real-time monitoring of ongoing enrolment of participants to the study. Data was captured by ODK collect and connect to Ms Power BI.
+    *This work supported reliable study outcomes and streamlined data operations. This Power BI dashboard offered useful insight of study progress and provide real-time     monitoring of ongoing enrolment of participants to the study. Data was captured by ODK collect and connect to Ms Power BI.*
 
-   **Skills:** Clinical Data Management, Power BI (include DAX), Statistical Data Analysis  *
+    ***Skills:** Clinical Data Management, Power BI (include DAX), Statistical Data Analysis*
    
-3. **Customer Segmentation using K-Means Clustering**  
-   Implemented K-Means algorithm in Python to segment customers based on purchasing behavior.
-   
-4. **Predictive Modeling for Churn Rate**  
-   Created a predictive model in R to forecast customer churn rate, enabling management to target at-risk customers effectively.
-
 ## Contact Information
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vichet-pav) or reach out via email at vichetp.70@gmail.com for any inquiries or collaboration opportunities.
