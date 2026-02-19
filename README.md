@@ -32,11 +32,11 @@ I am a clinical research data specialist and public health professional at the C
 
 ## Projects
 1. **PICU-II study - Data management and clinical study dashboard development**  
-   Study data management section, I managed study data across multiple processes to ensure accuracy and integrity. My responsibilities included data management, query  resolution, monitoring, and cleaning. This work supported reliable study outcomes and streamlined data operations.
+   *Study data management section, I managed study data across multiple processes to ensure accuracy and integrity. My responsibilities included data management, query  resolution, monitoring, and cleaning. This work supported reliable study outcomes and streamlined data operations.
 
    This Power BI dashboard offered useful insight of study progress and provide real-time monitoring of ongoing enrolment of participants to the study. Data was captured by ODK collect and connect to Ms Power BI.
 
-   **Skills:** Clinical Data Management, Power BI (include DAX), Statistical Data Analysis  
+   **Skills:** Clinical Data Management, Power BI (include DAX), Statistical Data Analysis  *
    
 3. **Customer Segmentation using K-Means Clustering**  
    Implemented K-Means algorithm in Python to segment customers based on purchasing behavior.
