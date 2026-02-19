@@ -31,13 +31,17 @@ I am a clinical research data specialist and public health professional at the C
 - *Data Management:* Excel, Database management (REDCap, ODK)
 
 ## Projects
-1. **Sales Analysis Dashboard**  
-   Developed an interactive dashboard using Tableau to analyze sales data for identifying trends and performance metrics.
+1. **PICU-II study - Data management and clinical study dashboard development**  
+   Study data management section, I managed study data across multiple processes to ensure accuracy and integrity. My responsibilities included data management, query  resolution, monitoring, and cleaning. This work supported reliable study outcomes and streamlined data operations.
+
+   This Power BI dashboard offered useful insight of study progress and provide real-time monitoring of ongoing enrolment of participants to the study. Data was captured by ODK collect and connect to Ms Power BI.
+
+   **Skills:** Clinical Data Management, Power BI (include DAX), Statistical Data Analysis  
    
-2. **Customer Segmentation using K-Means Clustering**  
+3. **Customer Segmentation using K-Means Clustering**  
    Implemented K-Means algorithm in Python to segment customers based on purchasing behavior.
    
-3. **Predictive Modeling for Churn Rate**  
+4. **Predictive Modeling for Churn Rate**  
    Created a predictive model in R to forecast customer churn rate, enabling management to target at-risk customers effectively.
 
 ## Contact Information
